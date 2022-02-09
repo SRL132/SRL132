@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I am a Full Stack developer specialized in the MERN stack with strong
+passion for code, strong language skills and previous
+experience in product management as well as
+internationalization roles in leading multinational companies
+with the most competitive business practices.
 <!--
 **SRL132/SRL132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
