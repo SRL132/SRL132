@@ -1,15 +1,15 @@
 ### Hi there 👋
 I am a Full Stack developer specialized in the MERN stack with strong
-passion for code, strong language skills and previous
+passion for code, and previous
 experience in product management as well as
 internationalization roles in leading multinational companies
 with the most competitive business practices.
 
-I have experience with Agile methodologies and my main stack is Javascript-based, including but not limited to React, Node, Express and MongoDB.
+I have experience with Agile methodologies and my main stack is Javascript-based, including but not limited to React, Node, Express and MongoDB. I am AWS-certified and I will also be glad to help with anything AWS or cloud-related as well. 
 
 
 
-### Feel free to reach me out 🌐
+### Feel free to reach me out in either Catalan, Spanish, English, German or Chinese, languages are my second passion :) 🌐
 
 - 💼 [Linkedin](https://www.linkedin.com/in/sergi-roca-laguna/)
 - 📫 srocalag@gmail.com
