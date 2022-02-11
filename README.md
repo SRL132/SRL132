@@ -5,7 +5,9 @@ experience in product management as well as
 internationalization roles in leading multinational companies
 with the most competitive business practices.
 
-### Feel free to contact me 🌐
+
+
+### Feel free to reach me out 🌐
 
 - 💼 [Linkedin](https://www.linkedin.com/in/sergi-roca-laguna/)
 - 📫 srocalag@gmail.com
