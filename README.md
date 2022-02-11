@@ -5,7 +5,7 @@ experience in product management as well as
 internationalization roles in leading multinational companies
 with the most competitive business practices.
 
-My main stack is Javascript-based, including but not limited to React, Node, Express and MongoDB.
+I have experience with Agile methodologies and my main stack is Javascript-based, including but not limited to React, Node, Express and MongoDB.
 
 
 
