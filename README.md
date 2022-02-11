@@ -22,17 +22,21 @@ with the most competitive business practices.
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="Sass"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js" title="NodeJS"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express" alt="Express"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" title="Redux" alt="Redux"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" alt="PHP" title="PHP"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"  title="MySQL"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode"  title="VSCode"/>
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="postman"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="40" title="Yarn" alt="Yarn"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" alt="Jest" title="Jest" />
    <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/docker.png" width="40" alt="Docker" title="Docker" />
    <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/jquery.png" width="40" alt="JQuery" title="JQuery" />
    <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/heroku.png" width="40" alt="Heroku" title="Heroku" />
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="git"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" width="40" title="Webpack" alt="Webpack"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" title="NPM" alt="NPM"/>
 </p>
  
 </br>
