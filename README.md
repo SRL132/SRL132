@@ -9,7 +9,7 @@ I have experience with Agile methodologies and my main stack is Javascript-based
 
 
 
-### Feel free to reach me out in either Catalan, Spanish, English, German or Chinese, languages are my second passion :) 🌐
+### Feel free to reach me out in either Catalan, Spanish, English, German, Chinese or French, languages are my second passion :) 🌐
 
 - 💼 [Linkedin](https://www.linkedin.com/in/sergi-roca-laguna/)
 - 📫 srocalag@gmail.com
