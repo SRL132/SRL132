@@ -1,11 +1,11 @@
 ### Hi there 👋
-I am a Full Stack developer specialized in the MERN stack with strong
+I am a Full Stack developer specialized in the MERN stack and Solidity with strong
 passion for code, and previous
 experience in product management as well as
 internationalization roles in leading multinational companies
 with the most competitive business practices.
 
-I have experience with Agile methodologies and my main stack is Javascript-based, including but not limited to React, Node, Express and MongoDB. I am AWS-certified and I will also be glad to help with anything AWS or cloud-related as well. 
+I have experience with Agile methodologies and my main stack is Javascript-based, including but not limited to React, Node, Solidity. I am AWS-certified and I will also be glad to help with anything AWS or cloud-related as well. 
 
 
 
