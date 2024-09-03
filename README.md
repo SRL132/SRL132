@@ -2,11 +2,9 @@
 I am a Full Stack developer specialized in the MERN stack and Solidity with strong
 passion for code, and previous
 experience in product management as well as
-internationalization roles in leading multinational companies
-with the most competitive business practices.
+internationalization roles in leading multinational companies as swell as start-up environments.
 
-I have experience with Agile methodologies and my main stack is Javascript-based, including but not limited to React, Node, Solidity. I am AWS-certified and I will also be glad to help with anything AWS or cloud-related as well. 
-
+I have experience with Agile methodologies and my main stack is Javascript and Solidity based, including but not limited to React, Node, Solidity.
 
 
 ### Feel free to reach me out in either Catalan, Spanish, English, German, Chinese or French, languages are my second passion :) 🌐
@@ -24,10 +22,7 @@ I have experience with Agile methodologies and my main stack is Javascript-based
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="Sass"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js" title="NodeJS"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express" alt="Express"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" title="Redux" alt="Redux"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" alt="PHP" title="PHP"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
    <img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" width="40" alt="Solidity" title="Solidity"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"  title="MySQL"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode"  title="VSCode"/>
